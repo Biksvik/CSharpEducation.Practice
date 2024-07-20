@@ -1,0 +1,9 @@
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        const double PI = 3.14;
+        var radius = 15;
+        Console.WriteLine("Площадь курга = " + PI * radius * radius);
+    }
+}
