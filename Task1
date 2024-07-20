@@ -1,0 +1,11 @@
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        int age;
+        String name;
+        String nameCompany;
+        bool alwausTrue;
+        float weight;
+    }
+}
