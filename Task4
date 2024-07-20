@@ -1,0 +1,10 @@
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        String phrase1 = Console.ReadLine();
+        String phrase2 = Console.ReadLine();
+
+        Console.WriteLine(phrase1 + phrase2);
+    }
+}
