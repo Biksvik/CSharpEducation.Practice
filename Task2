@@ -1,0 +1,11 @@
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        var age = 28;
+        String name = "Ksenia";
+        int temperature = 24;
+        bool isWoman = true;
+
+    }
+}
